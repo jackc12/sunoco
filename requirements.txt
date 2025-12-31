@@ -1,0 +1,23 @@
+# EIA Data Pipeline Dependencies
+
+# Core data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# API requests
+requests>=2.31.0
+
+# Data visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+ipykernel>=6.28.0
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
+
+# Environment variables
+python-dotenv>=1.0.0
